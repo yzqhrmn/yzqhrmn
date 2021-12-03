@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ayaz Qəhrəman
+- 👀 I’m interested in programming on mobile devices. 
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on with people who also learning flutter and create something usefull for people. 
+- 📫 How to reach me? In all social networks : @yzqrhmn
+-  ✌ Peace, health and love to everybody!
